@@ -35,6 +35,11 @@ At the end of this project, i created two interactive dashboard which can be use
 ![App Screenshot](https://raw.githubusercontent.com/bibekchapagain1/AtliQDataAnalysisAndVisualization/main/Profit%20Analysis%20Dashboard.jpg)
 
 
+![App Screenshot](https://raw.githubusercontent.com/bibekchapagain1/AtliQDataAnalysisAndVisualization/main/s2.png)
+
+https://raw.githubusercontent.com/bibekchapagain1/AtliQDataAnalysisAndVisualization/main/s3.png
+
+
 
 
 
